@@ -17,7 +17,6 @@ def div(x, y):
     else:
         return "Pembagian oleh nol tidak valid."
 
-# Contoh penggunaan fungsi-fungsi aritmatika
 result_add = add(3, 5)
 result_minus = minus(10, 4)
 result_mult = mult(6, 7)
