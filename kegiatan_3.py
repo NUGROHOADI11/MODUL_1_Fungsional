@@ -21,7 +21,6 @@ def main():
         'Mahasiswa1': {'uts': 85, 'uas': 90},
         'Mahasiswa2': {'uts': 75, 'uas': 80},
         'Mahasiswa3': {'uts': 92, 'uas': 88},
-        # Tambahkan data mahasiswa lainnya sesuai kebutuhan
     }
 
     data_nilai_akhir = hitung_nilai_akhir_semua(data_mahasiswa)
